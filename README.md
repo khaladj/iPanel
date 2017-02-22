@@ -7,3 +7,4 @@
     <div class="ipanel ipanel-X" id="bottom-panel"></div>
 
   X: botton, left, right, top
+# iPanel
